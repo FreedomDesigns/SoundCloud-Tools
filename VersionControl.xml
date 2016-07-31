@@ -1,2 +1,4 @@
-<latestVersion>0.0.1</latestVersion> 
-<updateURL>https://www.google.co.uk</updateURL> 
+<update>
+	<latestVersion>0.0.1</latestVersion> 
+	<updateURL>https://www.google.co.uk</updateURL> 
+</update>
